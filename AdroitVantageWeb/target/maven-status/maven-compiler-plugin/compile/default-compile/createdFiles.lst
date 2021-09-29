@@ -1,0 +1,15 @@
+com\av\web\service\SequenceGeneratorService.class
+com\av\web\model\WriteToUs.class
+com\av\web\repository\WriteToUsRepository.class
+com\av\web\exception\GlobalExceptionHandler.class
+com\av\web\repository\CandidateRepository.class
+com\av\web\configuration\SpringFoxConfig.class
+com\av\web\exception\ErrorDetails.class
+com\av\web\configuration\AADOAuth2LoginSecurityConfig.class
+com\av\web\configuration\ApplicationConfig.class
+com\av\web\Application.class
+com\av\web\controller\CandidateController.class
+com\av\web\model\Candidate.class
+com\av\web\model\DatabaseSequence.class
+com\av\web\exception\ResourceNotFoundException.class
+com\av\web\controller\WriteToUsController.class
